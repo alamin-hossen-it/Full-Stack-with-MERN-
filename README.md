@@ -23,7 +23,7 @@ _this is italyic text_
 ```
 
 - Alamin
-- Anisul
+- Anisul Islam
 - HM Nayem
 
 ![Alamin](images/1.png)

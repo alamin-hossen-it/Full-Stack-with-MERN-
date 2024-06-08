@@ -21,3 +21,11 @@
 - resolve merge config
 - collaboration
 - contribution
+
+
+## Next Day Plan
+
+- resolve merge conflict
+- collaboration
+- contribution
+- githhub pages

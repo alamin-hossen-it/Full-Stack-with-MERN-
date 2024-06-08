@@ -10,7 +10,7 @@
 2. gitignore
 3. Readme.md
 
-## 04/06l2024
+## 04/06/2024
 
 - git workflow (add-commit-push)
 - git pull
